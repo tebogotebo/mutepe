@@ -1,0 +1,32 @@
+
+
+h1{
+    color: blue;
+    font-size:" 15PX" color:orange;
+    font-size: 3em;
+    border: 3px crimson dotted;
+    padding: 15px dotted;
+    }
+    .my class{
+      background-color: yellow;
+    }
+
+    img {
+      border: 10px  dotted pink;
+      width:200px;
+      height:200px;
+      p{color:oranges}
+    }
+    body{
+      background-color:violet;
+
+  }
+
+  li:hover{
+    height: 150px;
+    width: 150px;
+  }
+
+  li{
+    transition: 0,3s ease;
+  }
